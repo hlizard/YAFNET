@@ -1,4 +1,10 @@
-@import url(http://fonts.googleapis.com/css?family=Actor);
+/*@import url(http://fonts.googleapis.com/css?family=Actor);*/
+@font-face {
+  font-family: 'Actor';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Actor Regular'), local('Actor-Regular'), url(../../fonts/OxqeYhb8dn7VMNU4gi8OwA.woff2) format('woff2'), url(../../fonts/gZ8EM_Gzaq4WRjCimioyzQ.woff) format('woff');
+}
 
 .yafnet,
 .yafnet td {
